@@ -1,0 +1,16 @@
+*.ipynb
+.env
+.local
+*.pkl
+.venv
+rofile_default/
+ipython_config.py
+.ipynb_checkpoints
+__pycache__/
+*.py[cod]
+*$py.class
+*.csv
+chroma_langchain_db
+chroma.sqlite3
+*.sqlite3
+config.py
